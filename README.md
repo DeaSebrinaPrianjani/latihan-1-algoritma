@@ -1,6 +1,6 @@
 # latihan-1-algoritma
 
-tugas 1
+## tugas 1
 
 alat: gelas, sendok teh
 bahan: kopi, gula, air panas
@@ -12,7 +12,7 @@ bahan: kopi, gula, air panas
 5. apabila kurang manis tambahkan gula
 6. secangkir kopi panas selesai disajikan dan siap diminum
 
-tugas 2
+## tugas 2
 
 1. bangun tidur lalu membersihkan tempat tidur
 2. cuci muka, sikat gigi dan wudhu
